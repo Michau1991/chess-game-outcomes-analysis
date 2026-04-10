@@ -9,3 +9,12 @@ Using a public dataset of over 20,000 games from Lichess, the analysis focuses o
 - how opening choices differ between players of varying skill
 
 The goal is not to find the "best" way to win, but to better understand patterns in how players lose - and what this reveals about decision-making in chess.
+
+## Research Questions
+
+This analysis is structured around following key questions: 
+
+1. How do rated chess games most commonly end?
+2. Does the way a game ends depend on player rating?
+3. How are opening types distributed across games?
+4. Do opening choices differ between players of diffrent skill levels?
