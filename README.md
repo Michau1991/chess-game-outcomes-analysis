@@ -18,3 +18,17 @@ This analysis is structured around following key questions:
 2. Does the way a game ends depend on player rating?
 3. How are opening types distributed across games?
 4. Do opening choices differ between players of diffrent skill levels?
+
+## Results
+
+### 1. How do rated chess games most commonly end?
+![Distribution of game outcomes](visuals/rq1_outcome_distribution.png)
+Resignation is the most common way games end, significantly more frequent than checkmate or timeout.
+This suggests that many games are decided before checkmate occurs, as players tend to resign once a losing position becomes clear.
+
+---
+
+### 2. Does the way a game end depend on player rating?
+![Game outcome vs player rating](visuals/rq2_outcome_ve_rating.png)
+As player rating increases, the proportion of games ending in resignation rises, while the proportion of checkmates decreases.
+This indicates that stronger players are more likely to recognize losing positions earlier and resign, rather than playing until checkmate.
