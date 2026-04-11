@@ -23,12 +23,17 @@ This analysis is structured around following key questions:
 
 ### 1. How do rated chess games most commonly end?
 ![Distribution of game outcomes](visuals/rq1_outcome_distribution.png)
+<br>
 Resignation is the most common way games end, significantly more frequent than checkmate or timeout.
-This suggests that many games are decided before checkmate occurs, as players tend to resign once a losing position becomes clear.
+This suggests that many games are decided before checkmate occurs, as players tend to resign once a losing position becomes clear. 
+Timeouts occurs less frequently, indicating that most games are decided by by position rather than time pressure.
+Draws are present but relatively rare, which justifies focusing further analysis on decisive game outcomes.
 
 ---
 
 ### 2. Does the way a game end depend on player rating?
 ![Game outcome vs player rating](visuals/rq2_outcome_vs_rating.png)
+<br>
 As player rating increases, the proportion of games ending in resignation rises, while the proportion of checkmates decreases.
 This indicates that stronger players are more likely to recognize losing positions earlier and resign, rather than playing until checkmate.
+Timeout remains relatively stable across rating groups and does not show a strong dependency on player skill level. 
