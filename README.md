@@ -29,6 +29,6 @@ This suggests that many games are decided before checkmate occurs, as players te
 ---
 
 ### 2. Does the way a game end depend on player rating?
-![Game outcome vs player rating](visuals/rq2_outcome_ve_rating.png)
+![Game outcome vs player rating](visuals/rq2_outcome_vs_rating.png)
 As player rating increases, the proportion of games ending in resignation rises, while the proportion of checkmates decreases.
 This indicates that stronger players are more likely to recognize losing positions earlier and resign, rather than playing until checkmate.
