@@ -37,3 +37,12 @@ Draws are present but relatively rare, which justifies focusing further analysis
 As player rating increases, the proportion of games ending in resignation rises, while the proportion of checkmates decreases.
 This indicates that stronger players are more likely to recognize losing positions earlier and resign, rather than playing until checkmate.
 Timeout remains relatively stable across rating groups and does not show a strong dependency on player skill level. 
+
+---
+
+### 3. Which opening types are most frequently chosen?
+![Opening distribution](visuals/rq3_opening_distribution.png)
+Opening choices are concentrated in a few groups, with categories C and B making up the majority of games. These groups are typically associated with open and semi-open games, leading to more dynamic positions with faster piece activity and earlier tactical opportunities.
+In contrast, closed and semi-closed openings (groups D and E) appear less frequently and are generally linked to slower, more strategic play, where positions develop more gradually.
+Group A represents a more diverse set of opening systems that do not fit as clearly into typical open or closed structures, which may explain its moderate but consistent presence.
+Overall this suggests that most games tend toward more dynamic and active play, while slower and more positional approaches appear less frquently. 
