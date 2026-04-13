@@ -46,3 +46,18 @@ Opening choices are concentrated in a few groups, with categories C and B making
 In contrast, closed and semi-closed openings (groups D and E) appear less frequently and are generally linked to slower, more strategic play, where positions develop more gradually.
 Group A represents a more diverse set of opening systems that do not fit as clearly into typical open or closed structures, which may explain its moderate but consistent presence.
 Overall this suggests that most games tend toward more dynamic and active play, while slower and more positional approaches appear less frquently. 
+
+### 4. Do opening choices differ by player rating?
+![Opening vs rating](visuals/rq4_opening_vs_rating.png)
+Opening preferences vary noticeably across rating levels, indicating that players approach the game differently depending on their skill.
+Lower-rated players tend to favor opening groups associated with more direct and dynamic play, where early activity and tactical opportunities are more common.
+As rating increases, the distribution of opening choices becomes more balanced, with growing share of closed and semi-closed structures that typically require more strategic planning and positional understanding. 
+At the same time, the dominance of open games decreases, suggesting that stronger players are less reliant on immediate tactical play and more comfortable navigating a wider range of more complex positions.
+Overall, higher-rated players appear to use a more diverse set of opening strategies, reflecting a broader understanding of different types of positions.
+This may suggest that lower-rated players tend to choose opening based on simplicity and accessibility, while stronger players are more likely to select openings aligned with their preferences, supported by greater experience and a deeper understanding of strategic concepts.
+
+## Final Conclusions
+This project explored how online chess games unfold, focusing on game outcomes, opening choices and how both relate to player skill.
+The analysis shows that most games end by resignation, suggesting that players often recognize losing positions before reaching checkmate. As player rating increases, game outcomes shift, reflecting diffrences in decision-making and game awareness.
+Opening choices also reveal clear patters. Players tend to rely on limited set of opening types, with more dynamic structures being the most common. However, as skill level increases, opening preferences becoe ore diverse and shift toward more strategic, positional play.
+Overall, the results highlight how player behavior evolves with experience - from early opening decisions to how games are ultimately concluded - providing insight into how different skill levels approach the game.
